@@ -15,11 +15,6 @@ Las tecnologías y herramientas con las que estoy familiarizado y que utilizo en
   <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" title="Trello (para la gestión de proyectos)" width="48" height="48" style="margin-right: 10px"/>
 </div>
 
-- Otras: 
-  - React-router-dom
-  - react-form-hook
-  - Draw (para el diseño de interfaces)
-
 ## Proyectos Destacados
 Aquí algunos de mis proyectos más interesantes que he realizado o en los cuales he participado:
 
