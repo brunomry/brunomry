@@ -11,8 +11,6 @@ Las tecnologías y herramientas con las que estoy familiarizado y que utilizo en
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap5" title="Bootstrap5" width="48" height="48" style="margin-right: 10px"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript (ES6+)" title="JavaScript (ES6+)" width="48" height="48" style="margin-right: 10px"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" title="React.js" width="48" height="48" style="margin-right: 10px"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/react-native-router-flux.png" alt="React Router" title="react-router-dom" width="48" height="48" style="margin-right: 10px"/>
-  <img src="https://img.icons8.com/dusk/64/000000/react.png" alt="React Form Hook" title="react-form-hook" width="48" height="48" style="margin-right: 10px"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="48" height="48" style="margin-right: 10px"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" title="Trello (para la gestión de proyectos)" width="48" height="48" style="margin-right: 10px"/>
 </div>
