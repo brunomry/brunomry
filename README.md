@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Bruno Madozzo Romay
+# ¡Hola! 👋 Soy Bruno Madozzo Romay, Desarrollador Full Stack en formación
 
 ¡Bienvenido a mi repositorio! Soy un estudiante de Ingeniería en Sistemas de Información apasionado por el desarrollo web, especialmente en el área del frontend. Estoy en constante aprendizaje y explorando nuevas tecnologías. Aquí encontrarás proyectos donde pongo en práctica mis conocimientos. 
 
