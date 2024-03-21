@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Bruno Madozzo Romay
 
-## Desarrollador Full Stack en formación
+## Desarrollador Frontend Trainee | Full Stack en formación
 
-¡Bienvenido a mi repositorio! Soy un estudiante de Ingeniería en Sistemas de Información apasionado por el desarrollo web, especialmente en el área del frontend. Estoy en constante aprendizaje y explorando nuevas tecnologías. Aquí encontrarás proyectos donde pongo en práctica mis conocimientos. 
+¡Bienvenido a mi repositorio! Soy un estudiante de Ingeniería en Sistemas de Información apasionado por el desarrollo web, especialmente en el área del frontend.
 
 ## Tecnologías que manejo
 Las tecnologías y herramientas con las que estoy familiarizado y que utilizo en mis proyectos son:
@@ -43,6 +43,3 @@ Aquí algunos de mis proyectos más interesantes que he realizado o en los cuale
 ## Contacto
 - 📧 Puedes contactarme por correo electrónico: [brunomadozzo@gmail.com](mailto:tucorreo@example.com)
 - 💼 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/bruno-madozzo/)
-
-¡Explora mis proyectos y no dudes en contactarme!
-
