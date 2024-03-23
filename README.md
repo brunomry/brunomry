@@ -37,9 +37,9 @@ Aquí algunos de mis proyectos más interesantes que he realizado o en los cuale
    - Tecnologías utilizadas: React, Vite, JavaScript, React-Bootstrap, Bootstrap, Webpack, CSS3, SweetAlert2
 
 4. #### **Aplicación web de Blog de recetas de cocina.**
-   Tecnologías utilizadas:
-  - Frontend: React, React-Bootstrap, React-router-dom, React-hook-form, Vite, JavaScript, HTML5, Bootstrap5, Webpack, CSS3, SweetAlert2
-  - Backend: JavaScript, Node js, Express, Mongodb, Mongoose
+     Tecnologías utilizadas:
+    - Frontend: React, React-Bootstrap, React-router-dom, React-hook-form, Vite, JavaScript, HTML5, Bootstrap5, Webpack, CSS3, SweetAlert2
+    - Backend: JavaScript, Node js, Express, Mongodb, Mongoose
    
    [Ver proyecto](https://rincondeplaceresgastronomicos-rpg.netlify.app/) o [Ver repositorio](https://github.com/brunomry/frontendBlogDeRecetas)
 
