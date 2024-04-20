@@ -26,11 +26,14 @@ Aquí algunos de mis proyectos más interesantes que he realizado o en los cuale
    
    [Ver proyecto](https://hostalsanjorgecafayate.netlify.app) o [Ver repositorio](https://github.com/brunomry/HostalSanJorgeCafayate)
 
-2. #### **E-Commerce sobre Tienda de Calzados: RollingShoesStore.**
-   El sitio incluye varias páginas diseñadas para proporcionar a los visitantes toda la información necesaria sobre la tienda y los productos que ofrece.
-   - Tecnologías utilizadas: HTML5, CSS3, Bootstrap5
+2. #### **Aplicación web sobre Restaurante: Ambiente Bohemio.**
+   Una aplicación web con toda la información del restaurante y las opciones de registrarse e iniciar sesión para poder realizar pedidos.
+   Actualmente se está añadiendo la funcionalidad para realizar el pago mediante MERCADOPAGO
+     Tecnologías utilizadas:
+    - Frontend: React, React-Bootstrap, React-router-dom, React-hook-form, Vite, JavaScript, HTML5, Bootstrap5, CSS3, SweetAlert2
+    - Backend: JavaScript, Node js, Express, Mongodb, Mongoose, Express-validator, Nodemailer, JWT
    
-   [Ver proyecto](https://rollingshoesstore-rss.netlify.app/) o [Ver repositorio](https://github.com/brunomry/RollingShoesStore)
+   [Ver proyecto](https://ambiente-bohemio-restaurante.netlify.app/) o [Ver repositorio](https://github.com/brunomry/frontendProyectoFinal_RollingCode)
 
 3. #### **Web del Clima.**
    Una aplicación web que permite consultar el clima de una ubicación ingresada por el usuario, utilizando la API de OpenWeatherMap. Si la ubicación no existe, se muestra un mensaje de error.
@@ -38,7 +41,7 @@ Aquí algunos de mis proyectos más interesantes que he realizado o en los cuale
 
 4. #### **Aplicación web de Blog de recetas de cocina.**
      Tecnologías utilizadas:
-    - Frontend: React, React-Bootstrap, React-router-dom, React-hook-form, Vite, JavaScript, HTML5, Bootstrap5, Webpack, CSS3, SweetAlert2
+    - Frontend: React, React-Bootstrap, React-router-dom, React-hook-form, Vite, JavaScript, HTML5, Bootstrap5, CSS3, SweetAlert2
     - Backend: JavaScript, Node js, Express, Mongodb, Mongoose
    
    [Ver proyecto](https://rincondeplaceresgastronomicos-rpg.netlify.app/) o [Ver repositorio](https://github.com/brunomry/frontendBlogDeRecetas)
@@ -46,5 +49,5 @@ Aquí algunos de mis proyectos más interesantes que he realizado o en los cuale
 [Mira el resto de mis proyectos](https://github.com/brunomry?page=1&tab=repositories)
 
 ## Contacto
-- 📧 Puedes contactarme por correo electrónico: [brunomadozzo@gmail.com](mailto:tucorreo@example.com)
+- 📧 Puedes contactarme por correo electrónico: [brunomadozzo@gmail.com](mailto:brunomadozzo@gmail.com)
 - 💼 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/bruno-madozzo/)
