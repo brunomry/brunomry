@@ -1,11 +1,10 @@
 # ¡Hola! 👋 Soy Bruno Madozzo Romay
 
-## Desarrollador Frontend Trainee | Full Stack en formación
+Estudiante de Ingeniería en Sistemas de Información apasionado por el desarrollo web, especialmente en el área del frontend.
 
-¡Bienvenido a mi repositorio! Soy un estudiante de Ingeniería en Sistemas de Información apasionado por el desarrollo web, especialmente en el área del frontend.
+## Desarrollador Frontend Trainee | Full Stack MERN en formación
 
 ## Tecnologías que manejo
-Las tecnologías y herramientas con las que estoy familiarizado y que utilizo en mis proyectos son:
 
 <div style="display: flex;">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" width="48" height="48" style="margin-right: 10px"/>
@@ -27,8 +26,7 @@ Aquí algunos de mis proyectos más interesantes que he realizado o en los cuale
    [Ver proyecto](https://hostalsanjorgecafayate.netlify.app) o [Ver repositorio](https://github.com/brunomry/HostalSanJorgeCafayate)
 
 2. #### **Aplicación web sobre Restaurante: Ambiente Bohemio.**
-   Una aplicación web con toda la información del restaurante y las opciones de registrarse e iniciar sesión para poder realizar pedidos.
-   Actualmente se está añadiendo la funcionalidad para realizar el pago mediante MERCADOPAGO
+   Una aplicación web con toda la información del restaurante y las opciones de registrarse e iniciar sesión para poder realizar pedidos con la opción de realizar el pago mediante MERCADOPAGO.
      Tecnologías utilizadas:
     - Frontend: React, React-Bootstrap, React-router-dom, React-hook-form, Vite, JavaScript, HTML5, Bootstrap5, CSS3, SweetAlert2
     - Backend: JavaScript, Node js, Express, Mongodb, Mongoose, Express-validator, Nodemailer, JWT
@@ -38,6 +36,8 @@ Aquí algunos de mis proyectos más interesantes que he realizado o en los cuale
 3. #### **Web del Clima.**
    Una aplicación web que permite consultar el clima de una ubicación ingresada por el usuario, utilizando la API de OpenWeatherMap. Si la ubicación no existe, se muestra un mensaje de error.
    - Tecnologías utilizadas: React, Vite, JavaScript, React-Bootstrap, Bootstrap, Webpack, CSS3, SweetAlert2
+
+[Ver proyecto]](https://ejercicio13-bmr.netlify.app/) o [Ver repositorio](https://github.com/brunomry/webDeClima_API_react)
 
 4. #### **Aplicación web de Blog de recetas de cocina.**
      Tecnologías utilizadas:
