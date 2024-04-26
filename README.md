@@ -37,7 +37,7 @@ Aquí algunos de mis proyectos más interesantes que he realizado o en los cuale
    Una aplicación web que permite consultar el clima de una ubicación ingresada por el usuario, utilizando la API de OpenWeatherMap. Si la ubicación no existe, se muestra un mensaje de error.
    - Tecnologías utilizadas: React, Vite, JavaScript, React-Bootstrap, Bootstrap, Webpack, CSS3, SweetAlert2
 
-        [Ver proyecto](https://ejercicio13-bmr.netlify.app/) o [Ver repositorio](https://github.com/brunomry/webDeClima_API_react)
+     [Ver proyecto](https://ejercicio13-bmr.netlify.app/) o [Ver repositorio](https://github.com/brunomry/webDeClima_API_react)
 
 4. #### **Aplicación web de Blog de recetas de cocina.**
      Tecnologías utilizadas:
