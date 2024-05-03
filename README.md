@@ -19,7 +19,7 @@ Estudiante de Ingeniería en Sistemas de Información apasionado por el desarrol
 ## Proyectos Destacados
 Aquí algunos de mis proyectos más interesantes que he realizado o en los cuales he participado:
 
-1. #### **Sitio web de Hostal San Jorge.**
+1. #### **Sitio web de Hostal San Jorge de Cafayate.**
    El sitio incluye varias páginas diseñadas para proporcionar a los visitantes toda la información necesaria sobre el hostal y sus servicios.
    - Tecnologías utilizadas: HTML5, CSS3, Bootstrap5 Y JavaScript
    
@@ -32,12 +32,6 @@ Aquí algunos de mis proyectos más interesantes que he realizado o en los cuale
     - Backend: JavaScript, Node js, Express, Mongodb, Mongoose, Express-validator, Nodemailer, JWT
    
    [Ver proyecto](https://ambiente-bohemio-restaurante.netlify.app/) o [Ver repositorio](https://github.com/brunomry/frontendProyectoFinal_RollingCode)
-
-3. #### **Web del Clima.**
-   Una aplicación web que permite consultar el clima de una ubicación ingresada por el usuario, utilizando la API de OpenWeatherMap. Si la ubicación no existe, se muestra un mensaje de error.
-   - Tecnologías utilizadas: React, Vite, JavaScript, React-Bootstrap, Bootstrap, Webpack, CSS3, SweetAlert2
-
-     [Ver proyecto](https://ejercicio13-bmr.netlify.app/) o [Ver repositorio](https://github.com/brunomry/webDeClima_API_react)
 
 4. #### **Aplicación web de Blog de recetas de cocina.**
      Tecnologías utilizadas:
