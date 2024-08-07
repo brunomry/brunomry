@@ -1,10 +1,12 @@
 # ¡Hola! 👋 Soy Bruno Madozzo Romay
 
-Estudiante de Ingeniería en Sistemas de Información apasionado por el desarrollo web, especialmente en el área del frontend.
+Estudiante de Ingeniería en Sistemas de Información con un fuerte enfoque en el desarrollo web, especialmente en el área del frontend.
 
-## Desarrollador Frontend Trainee | Full Stack MERN en formación
+## Desarrollador Frontend
 
-## Tecnologías que manejo
+## Tecnologías
+
+Estas son las tecnologías que utilizo en mis proyectos o de las cuales tengo conocimientos
 
 <div style="display: flex;">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" width="48" height="48" style="margin-right: 10px"/>
@@ -17,7 +19,7 @@ Estudiante de Ingeniería en Sistemas de Información apasionado por el desarrol
 </div>
 
 ## Proyectos Destacados
-Aquí algunos de mis proyectos más interesantes que he realizado o en los cuales he participado:
+Estos son algunos de mis proyectos más interesantes que realicé o en los cuales participé:
 
 1. #### **Sitio web de Hostal San Jorge de Cafayate.**
    El sitio incluye varias páginas diseñadas para proporcionar a los visitantes toda la información necesaria sobre el hostal y sus servicios.
