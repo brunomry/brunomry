@@ -2,7 +2,7 @@
 
 Estudiante de Ingeniería en Sistemas de Información con un fuerte enfoque en el desarrollo web, especialmente en el área del frontend.
 
-## Desarrollador Frontend
+## Desarrollador web Frontend
 
 ## Tecnologías
 
@@ -42,7 +42,7 @@ Estos son algunos de mis proyectos más interesantes que realicé o en los cuale
    
    [Ver proyecto](https://rincondeplaceresgastronomicos-rpg.netlify.app/) o [Ver repositorio](https://github.com/brunomry/frontendBlogDeRecetas)
 
-[Mira el resto de mis proyectos](https://github.com/brunomry?page=1&tab=repositories)
+[Mira el resto de mis proyectos](https://brunomadozzo-portfolio.netlify.app)
 
 ## Contáctame
 - 📧 Puedes contactarme por correo electrónico: [brunomadozzo@gmail.com](mailto:brunomadozzo@gmail.com)
