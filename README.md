@@ -10,7 +10,7 @@ Estas son las tecnologías que utilizo en mis proyectos o de las cuales tengo co
 - HTML5 y CSS3
 - Frameworks CSS: Bootstrap5, TailwindCSS
 - Lenguajes de programación: Javascript
-- Frameworks de Javascript: React.js
+- Bibliotecas de Javascript: React.js
 - Bibliotecas de React: React Router Dom, React Hook form, React-Bootstrap
 - Conocimientos en bibliotecas de gestión de estado: Reducers, Context, Redux, Redux-Toolkit, Zustand
 - Conocimientos de Backend en tecnologías como: Node js, Express js, MongoDB, Postman
