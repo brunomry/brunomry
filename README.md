@@ -22,7 +22,7 @@ Estas son las tecnologías que utilizo en mis proyectos o de las cuales tengo co
 <a href="https://brunomadozzo-portfolio.netlify.app" target="_blank">Visita mi web</a>
 
 ## Github Analytics
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=brunomry&show_icons=true&theme=dark&include_all_commits=true)
+![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=brunomry&show_icons=true&theme=blue)
 
 ### Contáctame
 - 📧 Puedes contactarme por correo electrónico: [brunomadozzo@gmail.com](mailto:brunomadozzo@gmail.com)
