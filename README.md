@@ -19,7 +19,7 @@ Estas son las tecnologías que utilizo en mis proyectos o de las cuales tengo co
 
 ## Portfolio
 
-<a href="https://brunomadozzo-portfolio.netlify.app" target="_BLANK">Visita mi web</a>
+<a href="https://brunomadozzo-portfolio.netlify.app" target="_blank">Visita mi web</a>
 
 ## Github Analytics
 ![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=brunomry&show_icons=true&theme=dark&include_all_commits=true)
