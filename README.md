@@ -4,6 +4,8 @@
 ## Sobre Mí
 Soy estudiante de Ingeniería en Sistemas de Información con enfoque en el desarrollo web frontend. Me destaco por mi atención al detalle, por aportar ideas creativas de diseño y por mi dedicación en cada proyecto que emprendo. Como desarrollador, creo firmemente en la importancia de seguir buenas prácticas y en la capacidad de recibir y dar feedback constructivo. Cada proyecto que surje es una oportunidad para crecer, practicar y prepararme para los desafíos profesionales que vendrán.
 
+Además de mi interés por la programación, tengo una inclinación natural hacia el diseño UX/UI, ya que considero que una buena experiencia de usuario es clave para cualquier producto digital. Estoy en constante aprendizaje para mejorar mis habilidades en este ámbito, lo que complementa mi trabajo como desarrollador frontend.
+
 ## Tecnologías
 
 Estas son las tecnologías que utilizo en mis proyectos o de las cuales tengo conocimientos
@@ -17,6 +19,7 @@ Estas son las tecnologías que utilizo en mis proyectos o de las cuales tengo co
 - Conocimientos de Backend en tecnologías como: Node js, Express js, MongoDB, Postman
 - Deploy: Netlify, Vercel
 - Herramientas de Gestión de proyectos: Trello, Taiga
+- Otras: SQL, Draw
 
 ## Mi Portfolio
 
