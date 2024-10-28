@@ -14,7 +14,7 @@ Estas son las tecnologías o herramientas que utilizo en mis proyectos o de las 
 - Frameworks CSS: Bootstrap5, TailwindCSS.
 - Lenguajes de programación: Javascript (ES6+).
 - Manejo de datos: Axios, Fetch API.
-- Librerías de Javascript: React.js, Axios.
+- Librerías de Javascript: React.js.
 - Librerías de React: React Router Dom, React Hook form, React Bootstrap.
 - Conocimientos en librerías para gestión de estado global: Context API, Redux, Redux Toolkit, Zustand.
 - Conocimientos de Backend en tecnologías como: Node js, Express js, MongoDB, Postman.
