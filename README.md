@@ -15,13 +15,14 @@ Estas son las tecnologías o herramientas que utilizo en mis proyectos o de las 
 - Lenguajes de programación: Javascript (ES6+).
 - Manejo de datos: Axios, Fetch API.
 - Librerías de Javascript: React.js.
-- Librerías de React: React Router Dom, React Hook form, React Bootstrap.
+- Librerías de React: React Router Dom, React Hook form, React Bootstrap, React Helmet.
 - Conocimientos en librerías para gestión de estado global: Context API, Redux, Redux Toolkit, Zustand.
 - Conocimientos de Backend en tecnologías como: Node js, Express js, MongoDB, Postman.
 - Bases de datos: MongoDB, MySQL.
 - Herramientas de Gestión de proyectos: Trello, Taiga, Notion.
 - Conocimientos de diseño de interfaces de usuario.
 - Conocimientos de SEO.
+- Conocimientos de documentación bajo estándar IEEE 830 y modelado UML.
 - Despliegue de aplicaciones: Netlify, Vercel.
 - Otras herramientas: Vite, Draw.io.
 
