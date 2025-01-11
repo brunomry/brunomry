@@ -1,8 +1,8 @@
 ## Hola, soy Bruno!👋
-# Desarrollador web Frontend
+# Desarrollador web Fullstack orientado al Front-end
 
 ## Acerca de Mí
-Soy estudiante de Ingeniería en Sistemas de Información con enfoque en el desarrollo web Frontend. Me destaco por mi atención al detalle, por aportar ideas creativas de diseño y por mi dedicación en cada proyecto que emprendo. Como desarrollador, creo en la importancia de aprender y seguir buenas prácticas y en la capacidad de recibir y dar feedback constructivo. Cada proyecto que surje es una oportunidad para seguir creciendo, practicar y prepararme para los desafíos profesionales que vendrán.
+Soy estudiante de Ingeniería en Sistemas de Información con fuerte enfoque en desarrollo web y orientado al Frontend. Me destaco por crear páginas rápidas, responsivas y optimizadas para SEO, aportando ideas creativas de diseño. También poseo conocimientos en documentación técnica, lo que me permite analizar y comprender mejor las necesidades de cada proyecto. Además, mi alto compromiso y atención al detalle además de una mentalidad orientada a resultados, me permiten contribuir de forma efectiva en los proyectos en los que participo.
 
 Además de mi interés por la programación, estoy en constante aprendizaje para mejorar mis habilidades en diseño UX/UI para complementar mi trabajo como desarrollador frontend.
 
