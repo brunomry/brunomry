@@ -4,8 +4,6 @@
 ## Acerca de Mí
 Soy estudiante de Ingeniería en Sistemas de Información con fuerte enfoque en desarrollo web y orientado al Frontend. Me destaco por crear páginas rápidas, responsivas y optimizadas para SEO, aportando ideas creativas de diseño. También poseo conocimientos en documentación técnica, lo que me permite analizar y comprender mejor las necesidades de cada proyecto. Además, mi alto compromiso y atención al detalle además de una mentalidad orientada a resultados, me permiten contribuir de forma efectiva en los proyectos en los que participo.
 
-Además de mi interés por la programación, estoy en constante aprendizaje para mejorar mis habilidades en diseño UX/UI para complementar mi trabajo como desarrollador frontend.
-
 ## Mis habilidades técnicas
 
 Estas son las tecnologías o herramientas que utilizo en mis proyectos o de las cuales tengo conocimientos
