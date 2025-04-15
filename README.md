@@ -2,11 +2,11 @@
 # Desarrollador web Front-end
 
 ## Acerca de Mí
-Soy estudiante de Ingeniería en Sistemas de Información con fuerte enfoque en desarrollo web y orientado al Frontend. Me destaco por crear páginas rápidas, responsivas y optimizadas para SEO, aportando ideas creativas de diseño. También poseo conocimientos en documentación técnica, lo que me permite analizar y comprender mejor las necesidades de cada proyecto. Además, mi alto compromiso y atención al detalle además de una mentalidad orientada a resultados, me permiten contribuir de forma efectiva en los proyectos en los que participo.
+Soy estudiante de Ingeniería en Sistemas de Información con fuerte enfoque en desarrollo web y orientado al Frontend. Me destaco por crear páginas de forma rápida y optimizadas para SEO, aportando ideas creativas de diseño. Además, mi alto compromiso y atención al detalle además de una mentalidad orientada a resultados, me permiten contribuir de forma efectiva en los proyectos en los que participo.
 
 ## Mis habilidades técnicas
 
-Estas son las tecnologías o herramientas que utilizo en mis proyectos o de las cuales tengo conocimientos
+Estas son las tecnologías o herramientas que utilizo en mis proyectos o de las cuales tengo conocimientos.  
 
 - HTML5 y CSS3
 - Frameworks CSS: Bootstrap5, TailwindCSS.
@@ -15,14 +15,15 @@ Estas son las tecnologías o herramientas que utilizo en mis proyectos o de las 
 - Librerías de Javascript: React.js.
 - Librerías de React: React Router Dom, React Hook form, React Bootstrap, React Helmet.
 - Conocimientos en librerías para gestión de estado global: Context API, Redux, Redux Toolkit, Zustand.
-- Conocimientos de Backend en tecnologías como: Node js, Express js, MongoDB, Postman.
+- Conocimientos de Backend en tecnologías como: Node js, Express js, MongoDB, Mongoose, Postman.
 - Bases de datos: MongoDB, MySQL.
 - Herramientas de Gestión de proyectos: Trello, Taiga, Notion.
-- Conocimientos de diseño de interfaces de usuario.
 - Conocimientos de SEO.
-- Conocimientos de documentación bajo estándar IEEE 830 y modelado UML.
+- Conocimientos de documentación técnica bajo estándar IEEE 830 y modelado UML.
 - Despliegue de aplicaciones: Netlify, Vercel.
 - Otras herramientas: Vite, Draw.io.
+
+Actualmente me encuentro aprendiendo Typescript, Figma e Inglés.
 
 ## Mi Portfolio
 
