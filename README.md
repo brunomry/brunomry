@@ -1,12 +1,11 @@
 ## Hola, soy Bruno!👋
-# Desarrollador web
+# Desarrollador web con enfoque en Front-end
 
 ## Acerca de Mí
-Soy estudiante de Ingeniería en Sistemas de Información y Desarrollador web con enfoque en Front-end.
-
+Soy estudiante de Ingeniería en Sistemas de Información.
 Me especializo en crear sitios y aplicaciones web optimizadas para un buen rendimiento y posicionamiento SEO.
 
-¿Por qué elegirme?
+### ¿Por qué elegirme?
 Tengo una gran atención al detalle, me gusta aprender constantemente y aplicar buenas prácticas de código y diseño.
 Además, soy una persona colaborativa, con habilidades de liderazgo, y siempre busco entregar buenos resultados.
 Si estás buscando a alguien con seriedad y compromiso para sumarse a tu equipo, no dudes en contactarme.
