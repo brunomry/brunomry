@@ -1,8 +1,15 @@
 ## Hola, soy Bruno!👋
-# Desarrollador web Front-end
+# Desarrollador web
 
 ## Acerca de Mí
-Soy estudiante de Ingeniería en Sistemas de Información con fuerte enfoque en desarrollo web y orientado al Front-end. Me destaco por crear páginas de forma rápida y optimizadas para SEO, aportando ideas creativas de diseño. Además, mi alto compromiso y atención al detalle me permiten contribuir de forma efectiva en los proyectos en los que participo.
+Soy estudiante de Ingeniería en Sistemas de Información y Desarrollador web con enfoque en Front-end.
+
+Me especializo en crear sitios y aplicaciones web optimizadas para un buen rendimiento y posicionamiento SEO.
+
+¿Por qué elegirme?
+Tengo una gran atención al detalle, me gusta aprender constantemente y aplicar buenas prácticas de código y diseño.
+Además, soy una persona colaborativa, con habilidades de liderazgo, y siempre busco entregar buenos resultados.
+Si estás buscando a alguien con seriedad y compromiso para sumarse a tu equipo, no dudes en contactarme.
 
 ## Mis habilidades técnicas
 
@@ -23,7 +30,7 @@ Estas son las tecnologías o herramientas que utilizo en mis proyectos o de las 
 - Despliegue de aplicaciones: Netlify, Vercel.
 - Otras herramientas: Vite, Draw.io.
 
-Actualmente me encuentro aprendiendo Typescript, Figma e Inglés.
+Actualmente aprendiendo por mi cuenta Typescript, Figma e Inglés mediante cursos de youtube y otros recursos online.
 
 ## Mi Portfolio
 
