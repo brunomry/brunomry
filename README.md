@@ -2,7 +2,7 @@
 # Desarrollador web Front-end
 
 ## Acerca de Mí
-Soy estudiante de Ingeniería en Sistemas de Información con fuerte enfoque en desarrollo web y orientado al Frontend. Me destaco por crear páginas de forma rápida y optimizadas para SEO, aportando ideas creativas de diseño. Además, mi alto compromiso y atención al detalle además de una mentalidad orientada a resultados, me permiten contribuir de forma efectiva en los proyectos en los que participo.
+Soy estudiante de Ingeniería en Sistemas de Información con fuerte enfoque en desarrollo web y orientado al Front-end. Me destaco por crear páginas de forma rápida y optimizadas para SEO, aportando ideas creativas de diseño. Además, mi alto compromiso y atención al detalle me permiten contribuir de forma efectiva en los proyectos en los que participo.
 
 ## Mis habilidades técnicas
 
