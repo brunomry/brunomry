@@ -21,15 +21,15 @@ Estas son las tecnologías o herramientas que utilizo en mis proyectos o de las 
 - Librerías de Javascript: React.js.
 - Librerías de React: React Router Dom, React Hook form, React Bootstrap, React Helmet.
 - Conocimientos en librerías para gestión de estado global: Context API, Redux, Redux Toolkit, Zustand.
-- Conocimientos de Backend en tecnologías como: Node js, Express js, MongoDB, Mongoose, Postman.
+- Conocimientos de Backend en tecnologías como: Node js, Express js, Express-validator, MongoDB, Mongoose, Postman.
 - Bases de datos: MongoDB, MySQL.
 - Herramientas de Gestión de proyectos: Trello, Taiga, Notion.
 - Conocimientos de SEO.
-- Conocimientos de documentación técnica bajo estándar IEEE 830 y modelado UML.
+- Conocimientos de documentación técnica bajo estándar IEEE 830 y modelado UML, modelado de base de datos.
 - Despliegue de aplicaciones: Netlify, Vercel.
 - Otras herramientas: Vite, Draw.io.
 
-Actualmente aprendiendo por mi cuenta Typescript, Figma e Inglés mediante cursos de youtube y otros recursos online.
+Actualmente aprendiendo Typescript, Figma e Inglés para mejorar mi perfil técnico.
 
 ## Mi Portfolio
 
