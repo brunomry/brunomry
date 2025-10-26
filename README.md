@@ -1,7 +1,7 @@
 ## Hola, soy Bruno!👋
-# Desarrollador web con enfoque en Front-end
+# Desarrollador web
 
-Soy estudiante de Ingeniería en Sistemas de Información.
+Soy estudiante de Ingeniería en Sistemas de Información y desarrollador web con enfoque en frontend.
 Me especializo en la creación de landing pages, sitios web y aplicaciones web optimizadas para un buen rendimiento y posicionamiento SEO, desde el diseño hasta la implementación final.
 
 ## Habilidades técnicas
@@ -14,13 +14,13 @@ Me especializo en la creación de landing pages, sitios web y aplicaciones web o
 - Optimización web: SEO, React Helmet, Google Search Console, Google PageSpeed Insights 
 - Maquetado web: HTML5, CSS3
 - Gestión de estado: Context API, Redux, Redux Toolkit, Zustand.
-- Backend: Node js, Express js, Express-validator, Mongoose, Postman.
+- Backend: Node js, Express js, Express-validator, Mongoose, Postman, Jason Web Token.
 - Sistemas de gestión de bases de datos: MongoDB, MySQL.
 - Diseño UI: Figma, metodología atomic design
 - Gestión de proyectos: Trello, Taiga
 - Documentación: casos de uso, modelado UML, modelado de base de datos (MER y MR).
 
-Actualmente aprendiendo principios SOLID.
+Actualmente aprendiendo principios SOLID y refactorizando proyectos.
 
 ## Portfolio
 
