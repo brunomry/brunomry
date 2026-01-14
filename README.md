@@ -24,7 +24,8 @@ Actualmente aprendiendo principios SOLID y refactorizando proyectos.
 
 ## Portfolio
 
-<a href="https://brunomadozzo-portfolio.netlify.app" target="_blank">Visita mi web</a>
+Para más info visita mi web 👇🏻 
+<a href="https://bmsolucionesweb.netlify.app" target="_blank">BM Soluciones Web</a>
 
 ## Github Analytics
 ![Mis Estadísticas de GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=brunomry&show_icons=true&theme=blue&include_all_commits=true&count_private=true)
