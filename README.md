@@ -24,7 +24,7 @@ Actualmente aprendiendo principios SOLID y refactorizando proyectos.
 
 ## Portfolio
 
-Para más info visita mi web 👇🏻 
+### Para más info visita mi web 👇🏻 
 <a href="https://bmsolucionesweb.netlify.app" target="_blank">BM Soluciones Web</a>
 
 ## Github Analytics
