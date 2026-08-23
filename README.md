@@ -1,7 +1,7 @@
 ## Hola, soy Bruno!👋
 # Desarrollador web
 
-Soy estudiante de Ingeniería en Sistemas de Información y desarrollador web con enfoque en frontend.
+Soy estudiante avanzado de Ingeniería en Sistemas de Información y Desarrollador web con enfoque en frontend y producto.
 Me especializo en la creación de landing pages, sitios web y aplicaciones web optimizadas para un buen rendimiento y posicionamiento SEO, desde el diseño hasta la implementación final.
 
 ## Habilidades técnicas
@@ -20,12 +20,10 @@ Me especializo en la creación de landing pages, sitios web y aplicaciones web o
 - Gestión de proyectos: Trello, Taiga
 - Documentación: casos de uso, modelado UML, modelado de base de datos (MER y MR).
 
-Actualmente aprendiendo principios SOLID y refactorizando proyectos.
-
 ## Portfolio
 
 Para más info visita mi web 👉🏻
-<a href="https://bmsolucionesweb.netlify.app" target="_blank">BM Soluciones Web</a>
+<a href="https://bmsolucionesweb.com" target="_blank">BM Soluciones Web</a>
 
 ## Github Analytics
 ![Mis Estadísticas de GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=brunomry&show_icons=true&theme=blue&include_all_commits=true&count_private=true)
