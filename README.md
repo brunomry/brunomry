@@ -2,7 +2,7 @@
 # DESARROLLADOR WEB Y ESTUDIANTE AVANZADO DE INGENIERÍA EN SISTEMAS DE INFORMACIÓN
 
 Soy estudiante avanzado de Ingeniería en Sistemas de Información y Desarrollador web con enfoque en frontend y producto.
-Me especializo en la creación de landing pages, sitios web y aplicaciones web para negocios optimizadas, desde el diseño hasta la implementación final.
+Me especializo en la creación de landing pages, sitios web y aplicaciones web para negocios, desde el análisis hasta la implementación final.
 
 ## HABILIDADES TÉCNICAS
 
